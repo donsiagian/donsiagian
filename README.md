@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'M Don Sebastian  👋
 
 <!--
 **donsiagian/donsiagian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+i'm currently learning to be a programer
